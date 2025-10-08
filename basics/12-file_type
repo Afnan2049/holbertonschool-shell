@@ -1,0 +1,6 @@
+#!/bin/bash
+# Dfinethe path to the file
+FILE_PATH="/tmp/iamafile"
+
+# Use the 'file' command to determine and print the file type
+file "$FILE_PATH"
