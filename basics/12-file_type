@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 touch /tmp/iamafile | file /tmp/iamafile
+=======
+touch /tmp/iamafile | file /tmp/iamafile 
+>>>>>>> a2075e1 (001)
